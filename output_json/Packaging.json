@@ -1,0 +1,68 @@
+[
+  {
+    "Unnamed: 0":"Packaging Type",
+    "Unnamed: 1":"Length\n(mm)",
+    "Unnamed: 2":"Width\n(mm)",
+    "Unnamed: 3":"Height\n(mm)",
+    "Request for Quote: Packaging Breakdown":"PCAs per Packaging Item",
+    "Unnamed: 5":"Quantity per Box",
+    "Unnamed: 6":"Cost per Packaging Item",
+    "Unnamed: 7":"Cost per PCA",
+    "Unnamed: 8":"EMS Comment"
+  },
+  {
+    "Unnamed: 0":"Tray",
+    "Unnamed: 1":null,
+    "Unnamed: 2":null,
+    "Unnamed: 3":null,
+    "Request for Quote: Packaging Breakdown":null,
+    "Unnamed: 5":null,
+    "Unnamed: 6":null,
+    "Unnamed: 7":null,
+    "Unnamed: 8":null
+  },
+  {
+    "Unnamed: 0":"Cover",
+    "Unnamed: 1":null,
+    "Unnamed: 2":null,
+    "Unnamed: 3":null,
+    "Request for Quote: Packaging Breakdown":0,
+    "Unnamed: 5":1,
+    "Unnamed: 6":null,
+    "Unnamed: 7":null,
+    "Unnamed: 8":null
+  },
+  {
+    "Unnamed: 0":"Bag",
+    "Unnamed: 1":null,
+    "Unnamed: 2":null,
+    "Unnamed: 3":null,
+    "Request for Quote: Packaging Breakdown":0,
+    "Unnamed: 5":1,
+    "Unnamed: 6":null,
+    "Unnamed: 7":null,
+    "Unnamed: 8":null
+  },
+  {
+    "Unnamed: 0":"Box",
+    "Unnamed: 1":null,
+    "Unnamed: 2":null,
+    "Unnamed: 3":null,
+    "Request for Quote: Packaging Breakdown":0,
+    "Unnamed: 5":1,
+    "Unnamed: 6":null,
+    "Unnamed: 7":null,
+    "Unnamed: 8":null
+  },
+  {
+    "Unnamed: 0":null,
+    "Unnamed: 1":null,
+    "Unnamed: 2":null,
+    "Unnamed: 3":null,
+    "Request for Quote: Packaging Breakdown":null,
+    "Unnamed: 5":null,
+    "Unnamed: 6":null,
+    "Unnamed: 7":0,
+    "Unnamed: 8":null
+  }
+]
